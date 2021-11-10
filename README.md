@@ -15,7 +15,7 @@ Some of my works include :
 - [I fused every server side executable for SFlyFF](https://www.xn--s-sfa.fr/wp-content/uploads/2020/05/DBWorldServer02.png)
 - I've posted some snippets on my [gist page 🇬🇧](https://gist.github.com/SPSquonK/).
 - I wrote a french [devblog 🇫🇷](https://www.sà.fr) about my adventures (warning: because my writing skills are bad, you need a MSc both in FlyFF and C++ to understand something)
-- [https://sflyff.fr 🇫🇷] exposes the list of features that I've implemented (and that can be seen from the players' perspective)
+- [https://sflyff.fr 🇫🇷](https://sflyff.fr) exposes the list of features that I've implemented (and that can be seen from the players' perspective)
 
 ## Triple Triad
 
