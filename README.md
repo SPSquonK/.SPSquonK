@@ -4,7 +4,7 @@
 
 ## Triple Triad
 
-[I am the developer of a FFWTT private server 🇫🇷](https://esthar.fr), a french online Triple Triad game.
+[I am the developer and administrator of Esthar, a FFWTT private server 🇫🇷](https://esthar.fr), a french online Triple Triad game. (since 2021-07)
 
 ## Pokémon
 
@@ -24,6 +24,6 @@ Some of my works include :
 
 My three projects are/were:
 - SFlyFF 1, 2014: A two weeks project when I knew nothing about C++.
-- SFlyFF 2, 2019-2021: [https://sflyff.fr 🇫🇷](https://sflyff.fr) exposes the list of features that I've implemented (and that can be seen from the players' perspective)
-- useleSS, 2022-current: [on github 🇬🇧](https://github.com/SPSquonK/useleSS) a project where I just refactor things in FlyFF v15 source.
+- SFlyFF 2, 2019~2021-01: [https://sflyff.fr 🇫🇷](https://sflyff.fr) exposes the list of features that I've implemented (and that can be seen from the players' perspective)
+- useleSS, since 2022-04: [on github 🇬🇧](https://github.com/SPSquonK/useleSS) a project where I just refactor things in FlyFF v15 source.
 
