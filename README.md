@@ -1,6 +1,6 @@
 # SP SquonK
 
-[Sorry I'm french.](https://youtu.be/eFlPYim-SUc) I'm a computer science PhD student and this is my "personal / gaming related" github account.
+ランダムな中国語の記号から始めましょう。
 
 ## Triple Triad
 
