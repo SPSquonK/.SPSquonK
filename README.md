@@ -2,6 +2,8 @@
 
 ランダムな中国語の記号から始めましょう。
 
+*My discord username*: spsquonk
+
 ## Triple Triad
 
 [I am the developer and administrator of Esthar, a FFWTT private server 🇫🇷](https://esthar.fr), a french online Triple Triad game. (since 2021-07)
@@ -14,13 +16,13 @@ I play pokemon fangames, including the official series. I kind of got interested
 
 I am a FlyFF private server developer in limbo that put most of his energy into refactoring the code and the architecture.
 
-**I am not here to earn money** by selling systems or from exploits. Here is the kind of stupid questions I'm asking myself: https://github.com/SPSquonK/useleSS/issues/2.
+**I am not here to earn money** by selling systems or from exploits (I don't have time for that, and my employer would refuse). Here is the kind of stupid questions I'm asking myself: https://github.com/SPSquonK/useleSS/issues/2.
 
 Some of my works include :
 - My [Server Starter 🇬🇧](https://github.com/SPSquonK/ServerStarter)
 - [I fused every server side executable for SFlyFF](https://www.xn--s-sfa.fr/wp-content/uploads/2020/05/DBWorldServer02.png)
-- I've posted some snippets on my [gist page 🇬🇧](https://gist.github.com/SPSquonK/).
-- I wrote a french [devblog 🇫🇷](https://www.sà.fr) about my adventures (warning: because my writing skills are bad, you need a MSc both in FlyFF and C++ to understand something)
+- I post some snippets on my [gist page 🇬🇧](https://gist.github.com/SPSquonK/).
+- I write a french [devblog 🇫🇷](https://www.sà.fr) about my adventures (warning: because my writing skills are bad, you need a MSc both in FlyFF and C++ to understand something)
 
 My three projects are/were:
 - SFlyFF 1, 2014: A two weeks project when I knew nothing about C++.
