@@ -14,7 +14,7 @@ I play pokemon fangames, including the official series. I kind of got interested
 
 ## FlyFF
 
-I am a FlyFF private server developer in limbo that put most of his energy into refactoring the code and the architecture.
+I am a FlyFF private server developer that put most of his energy into refactoring the code and the architecture.
 
 **I am not here to earn money** by selling systems or from exploits (I don't have time for that, and my employer would refuse). Here is the kind of stupid questions I'm asking myself: https://github.com/SPSquonK/useleSS/issues/2.
 
